@@ -7,7 +7,7 @@ STUDENT_NAMES = [
   "Rihanna"
 ]
 
-puts STUDENT_NAMES[1]
+puts STUDENT_NAMES[0]
  
 puts STUDENT_NAMES[4]
 
